@@ -1,4 +1,4 @@
-<h2 align="center"> ZRAdmin.NET后台管理系统</h2>
+<h2 align="center"> zc.NET后台管理系统</h2>
 <h4 align="center">基于.NET5/.NET6 + vue2.x/vue3.x前后端分离的.net快速开发框架</h4>  
 
 
