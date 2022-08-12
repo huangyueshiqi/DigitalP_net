@@ -96,42 +96,6 @@ Vue版前端技术栈 ：基于vue2.x/vue3.x、vuex、vue-router 、vue-cli 、a
         <td><img src="https://gitee.com/izory/ZrAdminNetCore/raw/master/document/images/1.png"/></td>
         <td><img src="https://gitee.com/izory/ZrAdminNetCore/raw/master/document/images/2.png"/></td>
     </tr>
-    <tr>
-        <td><img src="https://gitee.com/izory/ZrAdminNetCore/raw/master/document/images/3.png"/></td>
-        <td><img src="https://gitee.com/izory/ZrAdminNetCore/raw/master/document/images/4.png"/></td>
-    </tr>
-    <tr>
-        <td><img src="https://gitee.com/izory/ZrAdminNetCore/raw/master/document/images/5.png"/></td>
-        <td><img src="https://gitee.com/izory/ZrAdminNetCore/raw/master/document/images/6.png"/></td>
-    </tr>
-	<tr>
-        <td><img src="https://gitee.com/izory/ZrAdminNetCore/raw/master/document/images/7.png"/></td>
-        <td><img src="https://gitee.com/izory/ZrAdminNetCore/raw/master/document/images/8.png"/></td>
-    </tr>	
-	<tr>
-        <td><img src="https://gitee.com/izory/ZrAdminNetCore/raw/master/document/images/9.png"/></td>
-        <td><img src="https://gitee.com/izory/ZrAdminNetCore/raw/master/document/images/10.png"/></td>
-    </tr>
-	<tr>
-        <td><img src="https://gitee.com/izory/ZrAdminNetCore/raw/master/document/images/11.png"/></td>
-        <td><img src="https://gitee.com/izory/ZrAdminNetCore/raw/master/document/images/12.png"/></td>
-    </tr>
-	<tr>
-        <td><img src="https://gitee.com/izory/ZrAdminNetCore/raw/master/document/images/13.png"/></td>
-        <td><img src="https://gitee.com/izory/ZrAdminNetCore/raw/master/document/images/14.png"/></td>
-    </tr>
-	<tr>
-        <td><img src="https://gitee.com/izory/ZrAdminNetCore/raw/master/document/images/15.png"/></td>
-        <td><img src="https://gitee.com/izory/ZrAdminNetCore/raw/master/document/images/16.png"/></td>
-    </tr>
-	<tr>
-        <td><img src="https://gitee.com/izory/ZrAdminNetCore/raw/master/document/images/17.png"/></td>
-		<td><img src="https://gitee.com/izory/ZrAdminNetCore/raw/master/document/images/18.png"/></td>
-    </tr>
-	<tr>
-		<td><img src="https://gitee.com/izory/ZrAdminNetCore/raw/master/document/images/19.png"/></td>
-		<td><img src="https://gitee.com/izory/ZrAdminNetCore/raw/master/document/images/20.png"/></td>
-	</tr>
 </table>
 
 ## 🎉优势
@@ -147,9 +111,6 @@ Vue版前端技术栈 ：基于vue2.x/vue3.x、vuex、vue-router 、vue-cli 、a
 - 👉SqlSugar：[SqlSugar](https://gitee.com/dotnetchina/SqlSugar)
 - 👉vue-element-admin：[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
 
-## 🎀捐赠
-如果你觉得这个项目帮助到了你，你可以请作者喝杯咖啡表示鼓励 ☕️
-<img src="https://gitee.com/izory/ZrAdminNetCore/raw/master/document/images/pay.jpg"/>
 
 ## 🔧使用说明
 如果部署iis访问不了情况可以有以下两种办法：
